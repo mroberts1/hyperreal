@@ -40,30 +40,30 @@ function* createSketch(sketch) {
 }
 
 createSketch(s => {
-  
+
     s.setup = function() {
       s.createCanvas(width, 50);
       s.textFont('Henke-DL3416');
       s.textStyle(s.BOLD);
       s.textAlign(s.CENTER, s.CENTER)
     };
-    
+
     s.draw = function() {
       s.translate(
-        s.millis() * (-0.15) % (s.width + 600), 
+        s.millis() * (-0.15) % (s.width + 600),
         s.height / 2
       );
       s.background('#222222');
       s.fill('#DC3F74').textSize(30);
       s.text('ZONE', s.width + 500, 0);
     };
-    
+
   }
 )
 ```
 :::
 
-## zone :: alternate realities
+## ZONE :: alternate realities
 
 ::: {#sample-listings}
 :::
