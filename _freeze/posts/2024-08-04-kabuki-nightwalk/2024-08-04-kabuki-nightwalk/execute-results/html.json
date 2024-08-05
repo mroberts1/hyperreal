@@ -1,0 +1,15 @@
+{
+  "hash": "12e9e64581d5d58810b075b4401a463f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Kabuki Nightwalk\"\nauthor: \"Martin Roberts, Lev Manovich\"\ndate: \"2024-07-04\"\nimage: \"kabuki-nightwalk.jpg\"\n---\n\n\n\n{{< video https://youtu.be/WbUgBaEsugI >}}\n\n\n\n\n:::: {.columns}\n\n::: {.column width=\"45%\"}\n### Martin Roberts\n\nIn girum imus nocte et consumimur igni In girum imus nocte et consumimur igni\nIn girum imus nocte et consumimur igni\nIn girum imus nocte et consumimur igni\nIn girum imus nocte et consumimur igni\nIn girum imus nocte et consumimur igni\nIn girum imus nocte et consumimur igni\nIn girum imus nocte et consumimur igni\n:::\n\n::: {.column width=\"10%\"}\n<!-- empty column to create gap -->\n:::\n\n::: {.column width=\"45%\"}\n### Lev Manovich\n\nIn girum imus nocte et consumimur igni In girum imus nocte et consumimur igni\nIn girum imus nocte et consumimur igni\nIn girum imus nocte et consumimur igni\nIn girum imus nocte et consumimur igni\nIn girum imus nocte et consumimur igni\nIn girum imus nocte et consumimur igni\nIn girum imus nocte et consumimur igni\n:::\n\n::::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

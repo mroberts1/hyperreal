@@ -1,0 +1,46 @@
+---
+title: "kabuki nightwalk"
+author: "martin roberts, lev manovich"
+date: "2024-07-04"
+image: "kabuki-nightwalk.jpg"
+---
+
+::: {.columns}
+
+::: {.column width="47%"}
+{{< video https://youtu.be/WbUgBaEsugI >}}
+:::
+
+::: {.column width="53%"}
+<!-- empty column to create gap -->
+:::
+
+:::: {.column width="47%"}
+### martin roberts
+
+In girum imus nocte et consumimur igni In girum imus nocte et consumimur igni
+In girum imus nocte et consumimur igni
+In girum imus nocte et consumimur igni
+In girum imus nocte et consumimur igni
+In girum imus nocte et consumimur igni
+In girum imus nocte et consumimur igni
+In girum imus nocte et consumimur igni
+::::
+
+:::: {.column width="6%"}
+<!-- empty column to create gap -->
+::::
+
+:::: {.column width="47%"}
+### lev manovich
+
+In girum imus nocte et consumimur igni In girum imus nocte et consumimur igni
+In girum imus nocte et consumimur igni
+In girum imus nocte et consumimur igni
+In girum imus nocte et consumimur igni
+In girum imus nocte et consumimur igni
+In girum imus nocte et consumimur igni
+In girum imus nocte et consumimur igni
+::::
+
+:::

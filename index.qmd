@@ -1,0 +1,70 @@
+---
+title: "    "
+page-layout: full
+listing:
+  id: sample-listings
+  contents: posts
+  sort: "date asc"
+  date-format: short
+  type: grid
+  grid-columns: 3
+  field-links: [image, title, author]
+  fields: [image, title, author, date]
+  image-align: left
+  categories: false
+  sort-ui: false
+  filter-ui: false
+execute:
+  echo: false
+#table-hover: false
+#image-lazy-loading: false
+#title-block-banner: false
+---
+
+:::{.column-screen}
+```{ojs}
+
+P5 = require("p5")
+
+function* createSketch(sketch) {
+  const element = DOM.element('div');
+  yield element;
+  const instance = new P5(sketch, element, true);
+  try {
+    while (true) {
+      yield element;
+    }
+  } finally {
+    instance.remove();
+  }
+}
+
+createSketch(s => {
+  
+    s.setup = function() {
+      s.createCanvas(width, 50);
+      s.textFont('Henke-DL3416');
+      s.textStyle(s.BOLD);
+      s.textAlign(s.CENTER, s.CENTER)
+    };
+    
+    s.draw = function() {
+      s.translate(
+        s.millis() * (-0.15) % (s.width + 600), 
+        s.height / 2
+      );
+      s.background('#222222');
+      s.fill('#DC3F74').textSize(30);
+      s.text('ZONE', s.width + 500, 0);
+    };
+    
+  }
+)
+```
+:::
+
+## zone :: alternate realities
+
+::: {#sample-listings}
+:::
+
