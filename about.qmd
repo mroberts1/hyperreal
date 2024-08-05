@@ -5,7 +5,6 @@ format:
   html:
     grid:
       body-width: 600px;
-  PrettyPDF-pdf: default
 ---
 
 > Pleasures are like photographs: those taken in the beloved's presence no more than negatives, to be developed later, once you are at home, having regained the use of that interior darkroom, access to which is "condemned" as long as you are seeing other people.
