@@ -1,5 +1,6 @@
 ---
-title: "kabuki nightwalk"
+title: "cyberpunk 2077"
+subtitle: "kabuki nightwalk"
 author: "martin roberts, lev manovich"
 date: "2024-07-04"
 image: "kabuki-nightwalk.jpg"

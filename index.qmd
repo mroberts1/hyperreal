@@ -55,7 +55,7 @@ createSketch(s => {
       );
       s.background('#222222');
       s.fill('#DC3F74').textSize(30);
-      s.text('ZONE', s.width + 500, 0);
+      s.text('OPEN WORLD', s.width + 500, 0);
     };
 
   }
@@ -64,7 +64,9 @@ createSketch(s => {
 :::
 <br><br>
 
-## ZONE :: alternate realities
+# open world
+
+## cinematic environments
 
 ::: {#sample-listings}
 :::

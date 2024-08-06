@@ -25,7 +25,7 @@ $theme: "litera" !default;
 $font-family-sans-serif: "ApertureSans", "Helvetica", "Europa", "Source Sans Pro", "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 
 $primary:  #06436e !default;
-$font-family-serif: 'Source Serif Pro', serif !default;
+$font-family-serif: 'apertureserif', serif !default;
 $font-family-sans-serif: 'ApertureSans', sans-serif !default;
 $headings-font-family: 'ApertureSans', sans-serif !default;
 
@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 2px;
  }
 p, li {
-  font-family: $font-family-sans-serif;
+  font-family: $font-family-serif;
   font-size: 12pt;
   text-align: justify;
 }
