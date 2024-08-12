@@ -1,0 +1,44 @@
+---
+title: "night city"
+subtitle: "kabuki nightwalk, cyberpunk 2077"
+author: "martin roberts, lev manovich"
+date: "2024-07-04"
+image: "night-city.jpg"
+---
+
+::: {.columns}
+
+::: {.column width="47%"}
+{{< video https://youtu.be/WbUgBaEsugI >}}
+:::
+
+::: {.column width="53%"}
+<!-- empty column to create gap -->
+:::
+
+:::: {.column width="47%"}
+### enhanced cinema: hyperaesthetics
+
+I am watching a video "walkthrough" of *Cyberpunk 2077* on YouTube. It explores the Kabuki district of Night City, the game's fictional setting, from the eye-level POV familiar to any player of videogames. Clocking in at 2 hours, 42 minutes, and 15 seconds, the video is long, although not unusually so for this proliferating genre: type "cyberpunk 2077 walkthrough" into YouTube and videos and it is easy to find videos over six hours in length; one, titled "[ASMR] Night City Cyberpunk Ambience," is ten hours in length.
+
+{{< video https://youtu.be/jrNj1z6MCPc >}}
+
+The repeated use of the term "Ambience" in the title of such videos connects them with the aesthetics of ambient media, more specifically what Paul Roquet calls **ambient cinema**, a model of cinematic spectatorship that originates in the concept of ambient music developed by Brian Eno in the 1970s and whose origins extend as far back as Erik Satie's *musique d'ameublement* and his notorious piece "Vexations" (1893). [^1: See Paul Roquet, *Ambient Cinema*.]
+
+{{< video https://youtu.be/U5R8xe2cCbA >}}
+
+One of the key characteristics of ambient cinema as Roquet describes it is the establishment of a particular **mood** both in the film's characters and its audience; Roquet's primary example is *Tony Takitani* (Jun Ichikawa, 2004), atmospherically scored by Ryuichi Sakamoto. As ambient cinema, *Cyerpunk 2077* could be better described as aimed at producing a particular **vibe** rather than a psychological state of mind, although what kind of vibe is harder to define: a "futuristic" vibe, certainly, but at the same time a melancholic, nostalgic vibe reminiscent of the mood that pervades the video's most explicit reference point and another great example of ambient cinema: *Blade Runner* (Ridley Scott, 1982). The entire world of *Cyberpunk 2077* can be seen as an extrapolation of the dystopian aesthetics of Scott's film, especially its neon-drenched urban panoramas, multicultural street scenes, and giant holographic ads.
+
+The extended durations of walkthrough and ambient  videos are far from unique, of course, recalling numerous historical and recent examples: Andy Warhol's 8-hour, single-shot *Empire*; Christian Marclay's 24-hour film installation *The Clock*; or the much-discussed "slow cinema" of Béla Tarr, Lav Diaz, or Apichatpong Weerasethakul. Like these examples, walkthrough videos invite--even demand--new modes of attention distinct from the continuous attention expected of spectators in traditional theatrical exhibition, or even home theater viewing - specifically a mode of viewing that may be described as **continuous partial attention**, closer on the attentional spectrum to monitoring than active viewing. *Cyberpunk 2077* walkthrough videos are generally distinct from explicitly "ambience" videos in that they are not just meant to be cool wallpaper for the large TV monitors of hotel rooms. They both encourage and reward close **observation** of the extraordinary detail and coherence with which a plausible futuristic world is rendered. Contrary to the aesthetics of ambient media, the more closely they are watched, the more fascinating they become.
+
+Along with ambience, one of the other most ubiquitous terms associated with *Cyberpunk 2077* walkthrough videos is **hyperrealism**. As with similarly high-res  games like *Red Dead Redemption*, much of the discussion around the game has centered on its hyperrealistic visuals, which a hyperactive fan community has sought to enhance even further through modding. On sites such as Nexus Modding, fans upload and exchange software patches (aka "mods") that enhance the game's world in countless ways, from the dazzling sheen of a luxury car to the realism of urban traffic or weather conditions. Mod video titles typically include references to graphics resolution  ([4K], [8K]), cards (e.g. RTX 4090), even specific algorithms ("Ray tracing"). 
+
+Visual aesthetics in the AI age appear to be pulling in two opposing  directions: on the one hand, a hyperrealist aesthetics driven by a compulsion to reproduce the audiovisual experience of the world as seamlessly as possible, reminisicent of Bazin's famous concept of **total cinema**; on the other, a lo-fi aesthetics that celebrates the texture of imperfection, the glitchy, the pixellated. Each can be seen as dialectically related to the other, two sides of the same coin. One celebrates and works tirelessly to enhance the digital signal, the other embraces the very different pleasures of noise.
+
+
+Martin Roberts
+Seoul, July-August 2024
+
+::::
+
+:::

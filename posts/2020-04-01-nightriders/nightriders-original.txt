@@ -1,0 +1,18 @@
+# Nightriders
+
+### Digital Music Video and the Nocturnal Cityscape
+
+*Paper proposal for Media and the Night conference, McGill University, April 2020.*
+
+{{< video https://youtu.be/rDBbaGCCIhk >}}
+
+Audiovisual media have been documenting the night since Edwin’s Porter’s celebrated short film of the Pan-American exposition (1901), reportedly the first representation of the night in the history of motion pictures. This paper explores the audiovisual trope of the nocturnal cityscape, from its origins as one of the forms of what David Nye calls the technological sublime to its contemporary legacy in late twentieth and early twenty-first century audiovisual media.
+
+:::{.column-margin}
+{{< video https://youtu.be/t6WmPL98s4M >}}
+:::
+
+[David E. Nye, *American Technological Sublime* (Cambridge: MIT Press, 1996).]{.aside} 
+From *Akira* to *Bladerunner 2049*, the nocturnal cityscape remains the quintessential image of the technological future. While the urban spectacles of modernity were observed on foot, by the pedestrian figure of the *flâneur* (or *flâneuse*), since at least the 1950s the optimal vantage point for viewing the nocturnal cityscape has been the automobile, on whose windows it scrolls past like a continually changing panorama. The automobile is both the privileged medium of observation of the nocturnal cityscape and a constitutive element of it; at the same time, its stereophonic sound system supplies the city with a soundtrack, rendering it increasingly cinematic. It is not coincidental that night driving, along with its accompanying  nocturnal soundtracks, has been a staple of media culture for over half a century, from new wave cinema to automobile commercials.
+
+While futuristic imagery of nocturnal cityscapes has been ubiquitous in cinema and music videos since the 1980s, the past decade has seen an intensification of it in 1980s-inspired videogames such as *Hotline Miami* (2012) and cult movies such as *Drive* (2011), while their soundtracks have evolved into the retro-futuristic genre of electronic music known as synthwave. In the animated music videos of synthwave, nocturnal cityscapes and the luxury cars that glide effortlessly through them become metaphors of digital architectures and the data flows of global capital, their smooth, reflective surfaces figures of a new digital form of the technological sublime.

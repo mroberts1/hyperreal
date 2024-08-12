@@ -1,6 +1,6 @@
 @font-face {
     font-family: ApertureSans;
-    src: url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Regular.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Regular.woff) format("woff"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Regular.ttf) format("truetype"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Regular.otf) format("opentype"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Regular.svg) format("svg");
+    src: url(fonts/Aperture/APERTURE_SANS_Regular.woff2#iefix) format("woff2"),url(fonts/Aperture/APERTURE_SANS_Regular.woff) format("woff"),url(fonts/Aperture/APERTURE_SANS_Regular.ttf) format("truetype"),url(fonts/Aperture/APERTURE_SANS_Regular.otf) format("opentype");
     font-display: auto;
     font-style: normal;
     font-stretch: normal;
@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: ApertureSans;
-    src: url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Regular_Italic.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Regular_Italic.woff) format("woff"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Regular_Italic.ttf) format("truetype"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Regular_Italic.otf) format("opentype"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Regular_Italic.svg) format("svg");
+    src: url(fonts/Aperture/APERTURE_SANS_Regular_Italic.woff2#iefix) format("woff2"),url(fonts/Aperture/APERTURE_SANS_Regular_Italic.woff) format("woff"),url(fonts/Aperture/APERTURE_SANS_Regular_Italic.ttf) format("truetype"),url(fonts/Aperture/APERTURE_SANS_Regular_Italic.otf) format("opentype");
     font-display: auto;
     font-style: italic;
     font-stretch: normal;
@@ -18,7 +18,7 @@
 
 @font-face {
     font-family: ApertureSans;
-    src: url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Bold.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Bold.woff) format("woff"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Bold.ttf) format("truetype"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Bold.otf) format("opentype"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Bold.svg) format("svg");
+    src: url(fonts/Aperture/APERTURE_SANS_Bold.woff2#iefix) format("woff2"),url(fonts/Aperture/APERTURE_SANS_Bold.woff) format("woff"),url(fonts/Aperture/APERTURE_SANS_Bold.ttf) format("truetype"),url(fonts/Aperture/APERTURE_SANS_Bold.otf) format("opentype");
     font-display: auto;
     font-style: normal;
     font-stretch: normal;
@@ -27,7 +27,7 @@
 
 @font-face {
     font-family: ApertureSans;
-    src: url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Bold_ItalicWEB.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Bold_ItalicWEB.woff) format("woff"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Bold_ItalicWEB.ttf) format("truetype"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Bold_ItalicWEB.otf) format("opentype"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SANS_Bold_ItalicWEB.svg) format("svg");
+    src: url(fonts/Aperture/APERTURE_SANS_Bold_ItalicWEB.woff2#iefix) format("woff2"),url(fonts/Aperture/APERTURE_SANS_Bold_ItalicWEB.woff) format("woff"),url(fonts/Aperture/APERTURE_SANS_Bold_ItalicWEB.ttf) format("truetype"),url(fonts/Aperture/APERTURE_SANS_Bold_ItalicWEB.otf) format("opentype");
     font-display: auto;
     font-style: italic;
     font-stretch: normal;
@@ -36,7 +36,7 @@
 
 @font-face {
     font-family: apertureserif;
-    src: url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Light.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Light.woff) format("woff"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Light.ttf) format("truetype"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Light.otf) format("opentype"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Light.svg) format("svg");
+    src: url(fonts/Aperture/APERTURE_SERIF_Light.woff2#iefix) format("woff2"),url(fonts/Aperture/APERTURE_SERIF_Light.woff) format("woff"),url(fonts/Aperture/APERTURE_SERIF_Light.ttf) format("truetype"),url(fonts/Aperture/APERTURE_SERIF_Light.otf) format("opentype");
     font-display: auto;
     font-style: normal;
     font-stretch: normal;
@@ -45,7 +45,7 @@
 
 @font-face {
     font-family: apertureserif;
-    src: url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Light_Italic.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Light_Italic.woff) format("woff"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Light_Italic.ttf) format("truetype"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Light_Italic.otf) format("opentype"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Light_Italic.svg) format("svg");
+    src: url(fonts/Aperture/APERTURE_SERIF_Light_Italic.woff2#iefix) format("woff2"),url(fonts/Aperture/APERTURE_SERIF_Light_Italic.woff) format("woff"),url(fonts/Aperture/APERTURE_SERIF_Light_Italic.ttf) format("truetype"),url(fonts/Aperture/APERTURE_SERIF_Light_Italic.otf) format("opentype");
     font-display: auto;
     font-style: italic;
     font-stretch: normal;
@@ -54,7 +54,7 @@
 
 @font-face {
     font-family: apertureserif;
-    src: url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Bold.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Bold.woff) format("woff"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Bold.ttf) format("truetype"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Bold.otf) format("opentype"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Bold.svg) format("svg");
+    src: url(fonts/Aperture/APERTURE_SERIF_Bold.woff2#iefix) format("woff2"),url(fonts/Aperture/APERTURE_SERIF_Bold.woff) format("woff"),url(fonts/Aperture/APERTURE_SERIF_Bold.ttf) format("truetype"),url(fonts/Aperture/APERTURE_SERIF_Bold.otf) format("opentype");
     font-display: auto;
     font-style: normal;
     font-stretch: normal;
@@ -63,114 +63,9 @@
 
 @font-face {
     font-family: apertureserif;
-    src: url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Bold_ItalicWEB.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Bold_ItalicWEB.woff) format("woff"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Bold_ItalicWEB.ttf) format("truetype"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Bold_ItalicWEB.otf) format("opentype"),url(https://aperture.archive.content.pugpig.com/aperture/fonts/APERTURE_SERIF_Bold_ItalicWEB.svg) format("svg");
+    src: url(fonts/Aperture/APERTURE_SERIF_Bold_ItalicWEB.woff2#iefix) format("woff2"),url(fonts/Aperture/APERTURE_SERIF_Bold_ItalicWEB.woff) format("woff"),url(fonts/Aperture/APERTURE_SERIF_Bold_ItalicWEB.ttf) format("truetype"),url(fonts/Aperture/APERTURE_SERIF_Bold_ItalicWEB.otf) format("opentype");
     font-display: auto;
     font-style: italic;
     font-stretch: normal;
     font-weight: 600
-}
-
-@font-face {
-    font-family: VF-Flama;
-    src: url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/Flama-Bold.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/Flama-Bold.woff) format("woff");
-    font-weight: 700;
-    font-style: normal;
-    font-stretch: normal
-}
-
-@font-face {
-    font-family: VF-Flama;
-    src: url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/Flama-Semibold.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/Flama-Semibold.woff) format("woff");
-    font-weight: 600;
-    font-style: normal;
-    font-stretch: normal
-}
-
-@font-face {
-    font-family: VF-Flama;
-    src: url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/Flama-Basic.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/Flama-Basic.woff) format("woff");
-    font-weight: 400;
-    font-style: normal;
-    font-stretch: normal
-}
-
-@font-face {
-    font-family: VF-Flama-Condensed;
-    src: url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/FlamaCondensed-Light.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/FlamaCondensed-Light.woff) format("woff");
-    font-weight: 300;
-    font-style: normal;
-    font-stretch: normal
-}
-
-@font-face {
-    font-family: VF-Flama-Condensed;
-    src: url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/FlamaCondensed-Basic.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/FlamaCondensed-Basic.woff) format("woff");
-    font-weight: 400;
-    font-style: normal;
-    font-stretch: normal
-}
-
-@font-face {
-    font-family: VF-Flama-Condensed;
-    src: url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/FlamaCondensed-Medium.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/FlamaCondensed-Medium.woff) format("woff");
-    font-weight: 500;
-    font-style: normal;
-    font-stretch: normal
-}
-
-@font-face {
-    font-family: VF-Flama-Condensed;
-    src: url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/FlamaCondensed-Semibold.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/FlamaCondensed-Semibold.woff) format("woff");
-    font-weight: 600;
-    font-style: normal;
-    font-stretch: normal
-}
-
-@font-face {
-    font-family: VF-Flama-Ultracondensed;
-    src: url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/FlamaUltracondensed-Medium.eot);
-    src: url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/FlamaUltracondensed-Medium.eot#iefix) format("embedded-opentype"),url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/FlamaUltracondensed-Medium.woff2) format("woff2"),url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/FlamaUltracondensed-Medium.woff) format("woff"),url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/FlamaUltracondensed-Medium.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-stretch: normal
-}
-
-@font-face {
-    font-family: VF-Flama-Ultracondensed;
-    src: url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/FlamaUltracondensed-MediumItalic.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/FlamaUltracondensed-MediumItalic.woff) format("woff");
-    font-weight: 500;
-    font-style: italic;
-    font-stretch: normal
-}
-
-@font-face {
-    font-family: VFSans;
-    src: url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/VFSans-Light.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/VFSans-Light.woff) format("woff");
-    font-weight: 300;
-    font-style: normal;
-    font-stretch: normal
-}
-
-@font-face {
-    font-family: VFSans;
-    src: url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/VFSans-Book.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/VFSans-Book.woff) format("woff");
-    font-weight: 400;
-    font-style: normal;
-    font-stretch: normal
-}
-
-@font-face {
-    font-family: VFSans;
-    src: url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/VFSans-Medium.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/VFSans-Medium.woff) format("woff");
-    font-weight: 500;
-    font-style: normal;
-    font-stretch: normal
-}
-
-@font-face {
-    font-family: VFSans;
-    src: url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/VFSans-Bold.woff2#iefix) format("woff2"),url(https://aperture.archive.content.pugpig.com/vanityfair/fonts/VFSans-Bold.woff) format("woff");
-    font-weight: 700;
-    font-style: normal;
-    font-stretch: normal
 }

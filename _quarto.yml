@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "open world"
+  title: "hyperreal"
   navbar:
     background: transparent
     right:
@@ -15,9 +15,9 @@ website:
 format:
   html:
     theme: 
-      light: ember.scss
       dark: [darkly, ember.scss]
-    css: [custom.scss, aperture.css]
+      light: ember.scss
+    css: [custom.scss]
     self-contained: true
     linestretch: 1.2
     smooth-scroll: true

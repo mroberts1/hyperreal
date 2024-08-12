@@ -10,7 +10,7 @@ format:
       sidebar-width: 300px;
       body-width: 600px;
       margin-width: 300px;
-      gutter-width: 2em;
+      gutter-width: 2rem;
 text-align: left
 ---
 
