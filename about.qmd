@@ -3,7 +3,7 @@ title: "    "
 format: 
   html:
     grid:
-      body-width: 37.5rem;
+      body-width: 600px;
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SthlzIeMNW8?si=FM9K_97aOVk41wE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay="true"; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
